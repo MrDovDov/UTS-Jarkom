@@ -14,4 +14,6 @@ NAT merupakan teknologi yang memungkinkan perangkat dalam jaringan lokal berbagi
 
 # Cased
 
-![Topologi](Topologi.png)
+## Analisis
+
+![Topologi Diagram](<Topologi Diagram.png>)
