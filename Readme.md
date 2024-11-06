@@ -119,11 +119,11 @@ Ke R3
 
 Ke R1
 - dst address 192.168.10.0/24
-- gateway 12.12.12.1
+- gateway 14.14.14.1
 
 Ke R3
 - dst address 192.168.30.0/24
-- gateway 11.11.11.2
+- gateway 13.13.13.2
 
 **R3 KHI**
 
